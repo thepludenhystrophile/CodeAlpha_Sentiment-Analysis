@@ -49,7 +49,29 @@ For this stage, I applied sentiment analysis to the cleaned dataset to understan
 
 📌 In Summary : Patient experiences are highly polarized — nearly half positive, nearly half negative. This emphasizes the importance of side-effect management, drug improvement, and patient communication in healthcare and pharma strategy.
 
-📮 Contact
+### Conclusion
+This project explored drug review data through EDA, visualizations, and sentiment analysis — transforming raw patient feedback into actionable insights
+
+• EDA revealed patterns in ratings, conditions, and review trends.
+
+• Data visualization highlighted usage distributions and condition-specific insights.
+
+• Sentiment analysis showed that patient experiences are highly polarized, with side effects and effectiveness driving most opinions.
+
+Overall, the findings emphasize the importance of patient-centered approaches in drug development, healthcare delivery, and communication strategies.
+
+### 🔹 Next Steps
+Future work could extend this analysis by:
+
+• Building predictive models to estimate drug ratings or sentiment from review text.
+
+• Creating an interactive dashboard (e.g., Power BI, Tableau, Streamlit) for real-time insights.
+
+• Applying advanced NLP techniques (transformers, topic modeling) for deeper theme extraction.
+
+• Exploring subgroup analysis (age, gender, dosage patterns) to uncover patient-specific trends.
+
+### 📮 Contact
 
 **Elizabeth Ayeku**
 
